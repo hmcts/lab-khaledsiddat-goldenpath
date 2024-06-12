@@ -1,0 +1,2 @@
+# lab-khaledsiddat-goldenpath
+GoldenPath
